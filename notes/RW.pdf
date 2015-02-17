@@ -1,0 +1,1393 @@
+%PDF-1.4
+5 0 obj
+<< /S /GoTo /D (section*.2) >>
+endobj
+8 0 obj
+(Series Foreword)
+endobj
+9 0 obj
+<< /S /GoTo /D (section*.3) >>
+endobj
+12 0 obj
+(Preface)
+endobj
+13 0 obj
+<< /S /GoTo /D (section*.4) >>
+endobj
+16 0 obj
+(Symbols and Notation)
+endobj
+17 0 obj
+<< /S /GoTo /D (chapter.1) >>
+endobj
+20 0 obj
+(Introduction)
+endobj
+21 0 obj
+<< /S /GoTo /D (section.1.1) >>
+endobj
+24 0 obj
+(A Pictorial Introduction to Bayesian Modelling)
+endobj
+25 0 obj
+<< /S /GoTo /D (section.1.2) >>
+endobj
+28 0 obj
+(Roadmap)
+endobj
+29 0 obj
+<< /S /GoTo /D (chapter.2) >>
+endobj
+32 0 obj
+(Regression)
+endobj
+33 0 obj
+<< /S /GoTo /D (section.2.1) >>
+endobj
+36 0 obj
+(Weight-space View)
+endobj
+37 0 obj
+<< /S /GoTo /D (subsection.2.1.1) >>
+endobj
+40 0 obj
+(The Standard Linear Model)
+endobj
+41 0 obj
+<< /S /GoTo /D (subsection.2.1.2) >>
+endobj
+44 0 obj
+(Projections of Inputs into Feature Space)
+endobj
+45 0 obj
+<< /S /GoTo /D (section.2.2) >>
+endobj
+48 0 obj
+(Function-space View)
+endobj
+49 0 obj
+<< /S /GoTo /D (section.2.3) >>
+endobj
+52 0 obj
+(Varying the Hyperparameters)
+endobj
+53 0 obj
+<< /S /GoTo /D (section.2.4) >>
+endobj
+56 0 obj
+(Decision Theory for Regression)
+endobj
+57 0 obj
+<< /S /GoTo /D (section.2.5) >>
+endobj
+60 0 obj
+(An Example Application)
+endobj
+61 0 obj
+<< /S /GoTo /D (section.2.6) >>
+endobj
+64 0 obj
+(Smoothing, Weight Functions and Equivalent Kernels)
+endobj
+65 0 obj
+<< /S /GoTo /D (section.2.7) >>
+endobj
+68 0 obj
+(* Incorporating Explicit Basis Functions)
+endobj
+69 0 obj
+<< /S /GoTo /D (subsection.2.7.1) >>
+endobj
+72 0 obj
+(Marginal Likelihood)
+endobj
+73 0 obj
+<< /S /GoTo /D (section.2.8) >>
+endobj
+76 0 obj
+(History and Related Work)
+endobj
+77 0 obj
+<< /S /GoTo /D (section.2.9) >>
+endobj
+80 0 obj
+(Exercises)
+endobj
+81 0 obj
+<< /S /GoTo /D (chapter.3) >>
+endobj
+84 0 obj
+(Classification)
+endobj
+85 0 obj
+<< /S /GoTo /D (section.3.1) >>
+endobj
+88 0 obj
+(Classification Problems)
+endobj
+89 0 obj
+<< /S /GoTo /D (subsection.3.1.1) >>
+endobj
+92 0 obj
+(Decision Theory for Classification)
+endobj
+93 0 obj
+<< /S /GoTo /D (section.3.2) >>
+endobj
+96 0 obj
+(Linear Models for Classification)
+endobj
+97 0 obj
+<< /S /GoTo /D (section.3.3) >>
+endobj
+100 0 obj
+(Gaussian Process Classification)
+endobj
+101 0 obj
+<< /S /GoTo /D (section.3.4) >>
+endobj
+104 0 obj
+(The Laplace Approximation for the Binary GP Classifier)
+endobj
+105 0 obj
+<< /S /GoTo /D (subsection.3.4.1) >>
+endobj
+108 0 obj
+(Posterior)
+endobj
+109 0 obj
+<< /S /GoTo /D (subsection.3.4.2) >>
+endobj
+112 0 obj
+(Predictions)
+endobj
+113 0 obj
+<< /S /GoTo /D (subsection.3.4.3) >>
+endobj
+116 0 obj
+(Implementation)
+endobj
+117 0 obj
+<< /S /GoTo /D (subsection.3.4.4) >>
+endobj
+120 0 obj
+(Marginal Likelihood )
+endobj
+121 0 obj
+<< /S /GoTo /D (section.3.5) >>
+endobj
+124 0 obj
+(* Multi-class Laplace Approximation)
+endobj
+125 0 obj
+<< /S /GoTo /D (subsection.3.5.1) >>
+endobj
+128 0 obj
+(Implementation)
+endobj
+129 0 obj
+<< /S /GoTo /D (section.3.6) >>
+endobj
+132 0 obj
+(Expectation Propagation)
+endobj
+133 0 obj
+<< /S /GoTo /D (subsection.3.6.1) >>
+endobj
+136 0 obj
+(Predictions)
+endobj
+137 0 obj
+<< /S /GoTo /D (subsection.3.6.2) >>
+endobj
+140 0 obj
+(Marginal Likelihood)
+endobj
+141 0 obj
+<< /S /GoTo /D (subsection.3.6.3) >>
+endobj
+144 0 obj
+(Implementation)
+endobj
+145 0 obj
+<< /S /GoTo /D (section.3.7) >>
+endobj
+148 0 obj
+(Experiments)
+endobj
+149 0 obj
+<< /S /GoTo /D (subsection.3.7.1) >>
+endobj
+152 0 obj
+(A Toy Problem )
+endobj
+153 0 obj
+<< /S /GoTo /D (subsection.3.7.2) >>
+endobj
+156 0 obj
+(One-dimensional Example )
+endobj
+157 0 obj
+<< /S /GoTo /D (subsection.3.7.3) >>
+endobj
+160 0 obj
+(Binary Handwritten Digit Classification Example)
+endobj
+161 0 obj
+<< /S /GoTo /D (subsection.3.7.4) >>
+endobj
+164 0 obj
+(10-class Handwritten Digit Classification Example)
+endobj
+165 0 obj
+<< /S /GoTo /D (section.3.8) >>
+endobj
+168 0 obj
+(Discussion)
+endobj
+169 0 obj
+<< /S /GoTo /D (section.3.9) >>
+endobj
+172 0 obj
+(* Appendix: Moment Derivations)
+endobj
+173 0 obj
+<< /S /GoTo /D (section.3.10) >>
+endobj
+176 0 obj
+(Exercises)
+endobj
+177 0 obj
+<< /S /GoTo /D (chapter.4) >>
+endobj
+180 0 obj
+(Covariance Functions)
+endobj
+181 0 obj
+<< /S /GoTo /D (section.4.1) >>
+endobj
+184 0 obj
+(Preliminaries)
+endobj
+185 0 obj
+<< /S /GoTo /D (subsection.4.1.1) >>
+endobj
+188 0 obj
+(* Mean Square Continuity and Differentiability)
+endobj
+189 0 obj
+<< /S /GoTo /D (section.4.2) >>
+endobj
+192 0 obj
+(Examples of Covariance Functions)
+endobj
+193 0 obj
+<< /S /GoTo /D (subsection.4.2.1) >>
+endobj
+196 0 obj
+(Stationary Covariance Functions)
+endobj
+197 0 obj
+<< /S /GoTo /D (subsection.4.2.2) >>
+endobj
+200 0 obj
+(Dot Product Covariance Functions)
+endobj
+201 0 obj
+<< /S /GoTo /D (subsection.4.2.3) >>
+endobj
+204 0 obj
+(Other Non-stationary Covariance Functions)
+endobj
+205 0 obj
+<< /S /GoTo /D (subsection.4.2.4) >>
+endobj
+208 0 obj
+(Making New Kernels from Old)
+endobj
+209 0 obj
+<< /S /GoTo /D (section.4.3) >>
+endobj
+212 0 obj
+(Eigenfunction Analysis of Kernels)
+endobj
+213 0 obj
+<< /S /GoTo /D (subsection.4.3.1) >>
+endobj
+216 0 obj
+(* An Analytic Example)
+endobj
+217 0 obj
+<< /S /GoTo /D (subsection.4.3.2) >>
+endobj
+220 0 obj
+(Numerical Approximation of Eigenfunctions)
+endobj
+221 0 obj
+<< /S /GoTo /D (section.4.4) >>
+endobj
+224 0 obj
+(Kernels for Non-vectorial Inputs)
+endobj
+225 0 obj
+<< /S /GoTo /D (subsection.4.4.1) >>
+endobj
+228 0 obj
+(String Kernels)
+endobj
+229 0 obj
+<< /S /GoTo /D (subsection.4.4.2) >>
+endobj
+232 0 obj
+(Fisher Kernels)
+endobj
+233 0 obj
+<< /S /GoTo /D (section.4.5) >>
+endobj
+236 0 obj
+(Exercises)
+endobj
+237 0 obj
+<< /S /GoTo /D (chapter.5) >>
+endobj
+240 0 obj
+(Model Selection and Adaptation of Hyperparameters)
+endobj
+241 0 obj
+<< /S /GoTo /D (section.5.1) >>
+endobj
+244 0 obj
+(The Model Selection Problem)
+endobj
+245 0 obj
+<< /S /GoTo /D (section.5.2) >>
+endobj
+248 0 obj
+(Bayesian Model Selection)
+endobj
+249 0 obj
+<< /S /GoTo /D (section.5.3) >>
+endobj
+252 0 obj
+(Cross-validation)
+endobj
+253 0 obj
+<< /S /GoTo /D (section.5.4) >>
+endobj
+256 0 obj
+(Model Selection for GP Regression)
+endobj
+257 0 obj
+<< /S /GoTo /D (subsection.5.4.1) >>
+endobj
+260 0 obj
+(Marginal Likelihood)
+endobj
+261 0 obj
+<< /S /GoTo /D (subsection.5.4.2) >>
+endobj
+264 0 obj
+(Cross-validation)
+endobj
+265 0 obj
+<< /S /GoTo /D (subsection.5.4.3) >>
+endobj
+268 0 obj
+(Examples and Discussion)
+endobj
+269 0 obj
+<< /S /GoTo /D (section.5.5) >>
+endobj
+272 0 obj
+(Model Selection for GP Classification)
+endobj
+273 0 obj
+<< /S /GoTo /D (subsection.5.5.1) >>
+endobj
+276 0 obj
+(* Derivatives of the Marginal Likelihood for Laplace's Approximation)
+endobj
+277 0 obj
+<< /S /GoTo /D (subsection.5.5.2) >>
+endobj
+280 0 obj
+(* Derivatives of the Marginal Likelihood for EP)
+endobj
+281 0 obj
+<< /S /GoTo /D (subsection.5.5.3) >>
+endobj
+284 0 obj
+(Cross-validation)
+endobj
+285 0 obj
+<< /S /GoTo /D (subsection.5.5.4) >>
+endobj
+288 0 obj
+(Example)
+endobj
+289 0 obj
+<< /S /GoTo /D (section.5.6) >>
+endobj
+292 0 obj
+(Exercises)
+endobj
+293 0 obj
+<< /S /GoTo /D (chapter.6) >>
+endobj
+296 0 obj
+(Relationships between GPs and Other Models)
+endobj
+297 0 obj
+<< /S /GoTo /D (section.6.1) >>
+endobj
+300 0 obj
+(Reproducing Kernel Hilbert Spaces)
+endobj
+301 0 obj
+<< /S /GoTo /D (section.6.2) >>
+endobj
+304 0 obj
+(Regularization)
+endobj
+305 0 obj
+<< /S /GoTo /D (subsection.6.2.1) >>
+endobj
+308 0 obj
+(* Regularization Defined by Differential Operators)
+endobj
+309 0 obj
+<< /S /GoTo /D (subsection.6.2.2) >>
+endobj
+312 0 obj
+(Obtaining the Regularized Solution)
+endobj
+313 0 obj
+<< /S /GoTo /D (subsection.6.2.3) >>
+endobj
+316 0 obj
+(The Relationship of the Regularization View to Gaussian Process Prediction)
+endobj
+317 0 obj
+<< /S /GoTo /D (section.6.3) >>
+endobj
+320 0 obj
+(Spline Models)
+endobj
+321 0 obj
+<< /S /GoTo /D (subsection.6.3.1) >>
+endobj
+324 0 obj
+(* A 1-d Gaussian Process Spline Construction)
+endobj
+325 0 obj
+<< /S /GoTo /D (section.6.4) >>
+endobj
+328 0 obj
+(* Support Vector Machines)
+endobj
+329 0 obj
+<< /S /GoTo /D (subsection.6.4.1) >>
+endobj
+332 0 obj
+(Support Vector Classification )
+endobj
+333 0 obj
+<< /S /GoTo /D (subsection.6.4.2) >>
+endobj
+336 0 obj
+(Support Vector Regression )
+endobj
+337 0 obj
+<< /S /GoTo /D (section.6.5) >>
+endobj
+340 0 obj
+(* Least-squares Classification)
+endobj
+341 0 obj
+<< /S /GoTo /D (subsection.6.5.1) >>
+endobj
+344 0 obj
+(Probabilistic Least-squares Classification)
+endobj
+345 0 obj
+<< /S /GoTo /D (section.6.6) >>
+endobj
+348 0 obj
+(* Relevance Vector Machines)
+endobj
+349 0 obj
+<< /S /GoTo /D (section.6.7) >>
+endobj
+352 0 obj
+(Exercises )
+endobj
+353 0 obj
+<< /S /GoTo /D (chapter.7) >>
+endobj
+356 0 obj
+(Theoretical Perspectives)
+endobj
+357 0 obj
+<< /S /GoTo /D (section.7.1) >>
+endobj
+360 0 obj
+(The Equivalent Kernel )
+endobj
+361 0 obj
+<< /S /GoTo /D (subsection.7.1.1) >>
+endobj
+364 0 obj
+(Some Specific Examples of Equivalent Kernels)
+endobj
+365 0 obj
+<< /S /GoTo /D (section.7.2) >>
+endobj
+368 0 obj
+(* Asymptotic Analysis)
+endobj
+369 0 obj
+<< /S /GoTo /D (subsection.7.2.1) >>
+endobj
+372 0 obj
+(Consistency )
+endobj
+373 0 obj
+<< /S /GoTo /D (subsection.7.2.2) >>
+endobj
+376 0 obj
+(Equivalence and Orthogonality)
+endobj
+377 0 obj
+<< /S /GoTo /D (section.7.3) >>
+endobj
+380 0 obj
+(* Average-case Learning Curves)
+endobj
+381 0 obj
+<< /S /GoTo /D (section.7.4) >>
+endobj
+384 0 obj
+(* PAC-Bayesian Analysis )
+endobj
+385 0 obj
+<< /S /GoTo /D (subsection.7.4.1) >>
+endobj
+388 0 obj
+(The PAC Framework)
+endobj
+389 0 obj
+<< /S /GoTo /D (subsection.7.4.2) >>
+endobj
+392 0 obj
+(PAC-Bayesian Analysis)
+endobj
+393 0 obj
+<< /S /GoTo /D (subsection.7.4.3) >>
+endobj
+396 0 obj
+(PAC-Bayesian Analysis of GP Classification)
+endobj
+397 0 obj
+<< /S /GoTo /D (section.7.5) >>
+endobj
+400 0 obj
+(Comparison with Other Supervised Learning Methods)
+endobj
+401 0 obj
+<< /S /GoTo /D (section.7.6) >>
+endobj
+404 0 obj
+(* Appendix: Learning Curve for the Ornstein-Uhlenbeck Process )
+endobj
+405 0 obj
+<< /S /GoTo /D (section.7.7) >>
+endobj
+408 0 obj
+(Exercises )
+endobj
+409 0 obj
+<< /S /GoTo /D (chapter.8) >>
+endobj
+412 0 obj
+(Approximation Methods for Large Datasets)
+endobj
+413 0 obj
+<< /S /GoTo /D (section.8.1) >>
+endobj
+416 0 obj
+(Reduced-rank Approximations of the Gram Matrix)
+endobj
+417 0 obj
+<< /S /GoTo /D (section.8.2) >>
+endobj
+420 0 obj
+(Greedy Approximation)
+endobj
+421 0 obj
+<< /S /GoTo /D (section.8.3) >>
+endobj
+424 0 obj
+(Approximations for GPR with Fixed Hyperparameters)
+endobj
+425 0 obj
+<< /S /GoTo /D (subsection.8.3.1) >>
+endobj
+428 0 obj
+(Subset of Regressors)
+endobj
+429 0 obj
+<< /S /GoTo /D (subsection.8.3.2) >>
+endobj
+432 0 obj
+(The Nystr\366m Method)
+endobj
+433 0 obj
+<< /S /GoTo /D (subsection.8.3.3) >>
+endobj
+436 0 obj
+(Subset of Datapoints )
+endobj
+437 0 obj
+<< /S /GoTo /D (subsection.8.3.4) >>
+endobj
+440 0 obj
+(Projected Process Approximation)
+endobj
+441 0 obj
+<< /S /GoTo /D (subsection.8.3.5) >>
+endobj
+444 0 obj
+(Bayesian Committee Machine)
+endobj
+445 0 obj
+<< /S /GoTo /D (subsection.8.3.6) >>
+endobj
+448 0 obj
+(Iterative Solution of Linear Systems )
+endobj
+449 0 obj
+<< /S /GoTo /D (subsection.8.3.7) >>
+endobj
+452 0 obj
+(Comparison of Approximate GPR Methods )
+endobj
+453 0 obj
+<< /S /GoTo /D (section.8.4) >>
+endobj
+456 0 obj
+(Approximations for GPC with Fixed Hyperparameters)
+endobj
+457 0 obj
+<< /S /GoTo /D (section.8.5) >>
+endobj
+460 0 obj
+(* Approximating the Marginal Likelihood and its Derivatives)
+endobj
+461 0 obj
+<< /S /GoTo /D (section.8.6) >>
+endobj
+464 0 obj
+(* Appendix: Equivalence of SR and GPR Using the Nystr\366m Approximate Kernel )
+endobj
+465 0 obj
+<< /S /GoTo /D (section.8.7) >>
+endobj
+468 0 obj
+(Exercises )
+endobj
+469 0 obj
+<< /S /GoTo /D (chapter.9) >>
+endobj
+472 0 obj
+(Further Issues and Conclusions)
+endobj
+473 0 obj
+<< /S /GoTo /D (section.9.1) >>
+endobj
+476 0 obj
+(Multiple Outputs)
+endobj
+477 0 obj
+<< /S /GoTo /D (section.9.2) >>
+endobj
+480 0 obj
+(Noise Models with Dependencies)
+endobj
+481 0 obj
+<< /S /GoTo /D (section.9.3) >>
+endobj
+484 0 obj
+(Non-Gaussian Likelihoods)
+endobj
+485 0 obj
+<< /S /GoTo /D (section.9.4) >>
+endobj
+488 0 obj
+(Derivative Observations)
+endobj
+489 0 obj
+<< /S /GoTo /D (section.9.5) >>
+endobj
+492 0 obj
+(Prediction with Uncertain Inputs)
+endobj
+493 0 obj
+<< /S /GoTo /D (section.9.6) >>
+endobj
+496 0 obj
+(Mixtures of Gaussian Processes)
+endobj
+497 0 obj
+<< /S /GoTo /D (section.9.7) >>
+endobj
+500 0 obj
+(Global Optimization)
+endobj
+501 0 obj
+<< /S /GoTo /D (section.9.8) >>
+endobj
+504 0 obj
+(Evaluation of Integrals)
+endobj
+505 0 obj
+<< /S /GoTo /D (section.9.9) >>
+endobj
+508 0 obj
+(Student's t Process )
+endobj
+509 0 obj
+<< /S /GoTo /D (section.9.10) >>
+endobj
+512 0 obj
+(Invariances)
+endobj
+513 0 obj
+<< /S /GoTo /D (section.9.11) >>
+endobj
+516 0 obj
+(Latent Variable Models)
+endobj
+517 0 obj
+<< /S /GoTo /D (section.9.12) >>
+endobj
+520 0 obj
+(Conclusions and Future Directions )
+endobj
+521 0 obj
+<< /S /GoTo /D (appendix.A) >>
+endobj
+524 0 obj
+(Appendix Mathematical Background)
+endobj
+525 0 obj
+<< /S /GoTo /D (section.A.1) >>
+endobj
+528 0 obj
+(Joint, Marginal and Conditional Probability)
+endobj
+529 0 obj
+<< /S /GoTo /D (section.A.2) >>
+endobj
+532 0 obj
+(Gaussian Identities )
+endobj
+533 0 obj
+<< /S /GoTo /D (section.A.3) >>
+endobj
+536 0 obj
+(Matrix Identities)
+endobj
+537 0 obj
+<< /S /GoTo /D (subsection.A.3.1) >>
+endobj
+540 0 obj
+(Matrix Derivatives)
+endobj
+541 0 obj
+<< /S /GoTo /D (subsection.A.3.2) >>
+endobj
+544 0 obj
+(Matrix Norms)
+endobj
+545 0 obj
+<< /S /GoTo /D (section.A.4) >>
+endobj
+548 0 obj
+(Cholesky Decomposition)
+endobj
+549 0 obj
+<< /S /GoTo /D (section.A.5) >>
+endobj
+552 0 obj
+(Entropy and Kullback-Leibler Divergence)
+endobj
+553 0 obj
+<< /S /GoTo /D (section.A.6) >>
+endobj
+556 0 obj
+(Limits)
+endobj
+557 0 obj
+<< /S /GoTo /D (section.A.7) >>
+endobj
+560 0 obj
+(Measure and Integration)
+endobj
+561 0 obj
+<< /S /GoTo /D (subsection.A.7.1) >>
+endobj
+564 0 obj
+(Lp Spaces)
+endobj
+565 0 obj
+<< /S /GoTo /D (section.A.8) >>
+endobj
+568 0 obj
+(Fourier Transforms)
+endobj
+569 0 obj
+<< /S /GoTo /D (section.A.9) >>
+endobj
+572 0 obj
+(Convexity )
+endobj
+573 0 obj
+<< /S /GoTo /D (appendix.B) >>
+endobj
+576 0 obj
+(Appendix Gaussian Markov Processes)
+endobj
+577 0 obj
+<< /S /GoTo /D (section.B.1) >>
+endobj
+580 0 obj
+(Fourier Analysis)
+endobj
+581 0 obj
+<< /S /GoTo /D (subsection.B.1.1) >>
+endobj
+584 0 obj
+(Sampling and Periodization)
+endobj
+585 0 obj
+<< /S /GoTo /D (section.B.2) >>
+endobj
+588 0 obj
+(Continuous-time Gaussian Markov Processes)
+endobj
+589 0 obj
+<< /S /GoTo /D (subsection.B.2.1) >>
+endobj
+592 0 obj
+(Continuous-time GMPs on R)
+endobj
+593 0 obj
+<< /S /GoTo /D (subsection.B.2.2) >>
+endobj
+596 0 obj
+(The Solution of the Corresponding SDE on the Circle)
+endobj
+597 0 obj
+<< /S /GoTo /D (section.B.3) >>
+endobj
+600 0 obj
+(Discrete-time Gaussian Markov Processes)
+endobj
+601 0 obj
+<< /S /GoTo /D (subsection.B.3.1) >>
+endobj
+604 0 obj
+(Discrete-time GMPs on Z)
+endobj
+605 0 obj
+<< /S /GoTo /D (subsection.B.3.2) >>
+endobj
+608 0 obj
+(The Solution of the Corresponding Difference Equation on PN)
+endobj
+609 0 obj
+<< /S /GoTo /D (section.B.4) >>
+endobj
+612 0 obj
+(The Relationship Between Discrete-time and Sampled Continuous-time GMPs)
+endobj
+613 0 obj
+<< /S /GoTo /D (section.B.5) >>
+endobj
+616 0 obj
+(Markov Processes in Higher Dimensions)
+endobj
+617 0 obj
+<< /S /GoTo /D (appendix.C) >>
+endobj
+620 0 obj
+(Appendix Datasets and Code)
+endobj
+621 0 obj
+<< /S /GoTo /D (appendix*.24) >>
+endobj
+624 0 obj
+(Bibliography)
+endobj
+625 0 obj
+<< /S /GoTo /D (appendix*.25) >>
+endobj
+628 0 obj
+(Author Index)
+endobj
+629 0 obj
+<< /S /GoTo /D (section*.26) >>
+endobj
+632 0 obj
+(Subject Index)
+endobj
+633 0 obj
+<< /S /GoTo /D [634 0 R  /Fit ] >>
+endobj
+636 0 obj <<
+/Length 440       
+/Filter /FlateDecode
+>>
+stream
+xÚRMÓ0½÷Wø„liãÚãøëZ´»*P´Z"¢¦‘Ú%YUü{Æ… íÓØ3ÏÏ3oŞ®ÚlñÜ0¤:ÄJÅ…“šT?¾Ò·œJ)zŸãs=³BÒG_æxn‡Tz“ÂíÅû÷9~îÏçIZ_Â£ù.ekdéëLñ4!`d’7‘:ÿ0‡rIã”p‡ÀÓ0°ô(‡6Õ?´õ4à½ºL¿œğš«‡}uû¥×=€æ}¯ŞA
+”Â
+gßÚ}L¤­¾ğˆóŠK«5‘\ja"¸	…íƒ,WbÀ­±%)WB¨ˆû&¤NĞµì(98¥ÒéŒmåqë¤C™GíÛY–9«<ÌK¿¼,Ç©R1§h7ai§ Ğx»_!Ïs×ÿôâ=6á<ªÚ¸^¯ü¶¥§ilp'|œºm÷ór¯7÷ÕF"VI$2c¹ eIsÙÒaşñO]•€ñ•BQGŠõÓ]p¦´D–\•bcÈ®½ãVû2¶¶2\kp¥MŞntŞ#N<%Ì!ÊÈ¢Á<Ñ9xBçĞ€Îym&m¸ÿ5Òo/ØÉ2endstream
+endobj
+634 0 obj <<
+/Type /Page
+/Contents 636 0 R
+/Resources 635 0 R
+/MediaBox [0 0 612 792]
+/Parent 651 0 R
+>> endobj
+646 0 obj <<
+/D [634 0 R /XYZ 126 667.0237 null]
+>> endobj
+647 0 obj <<
+/D [634 0 R /XYZ 126 649.0237 null]
+>> endobj
+635 0 obj <<
+/Font << /F8 639 0 R /F14 642 0 R /F18 645 0 R /F17 650 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+654 0 obj <<
+/Length 1477      
+/Filter /FlateDecode
+>>
+stream
+xÚÍXÉrÛF½ë+xJU"öÜDm‘%,‹•¤*ÎaBBÄ”°0´"_òëéîi€D‡JN¾@OÏÒ¯_/ÃÅêìİM2K4Ñlõ8‹Å,ö|ÇM¼p¶Úün]:öÜ÷}ëšŸegÏ=«´Ebí:zÏ*3ôyô3>ğóŸ¿ª¢P¶gÉ'uçFz+a%y‰e
+µ=‡Å×´4ïĞáp`=Ö­Ñ»ÇuÖ¶ˆ­—¬23şc&Û
+¾UµååuŸ<z·êwÉºÃ3×Îí?VïgîlPÄnJ¶ß=,~2®ˆ„—ˆĞÿÍ!½Ôw¼8gã…nDÊkxwã`Î…Gq0›»ïº>é}r½Ğ¨Â‹ÄQ3	YÅæJƒ›l‹°ÏP¢uÇ(WVz§÷æÖfde'¾EÊktZ ÕE½}A¹Ã§%MáI
+hà1ŸŸŞKË¶^ƒOœºİ¾Û6e³Ï®Wgèº3ÙE±ã
+?­Ë3w¶ñí0„ø<20…˜Í§.˜"33r='ã‹l´B»>Û¾ «Á ËºlvZšº2BYmÌË= º¹"Æ$ÀÄHŒyí`ƒç9iz´á*¯KÉL¼R™ÖY«¤Ì£ërOI™Kf¶0”#·ùQ×¼ç³ya¤HÕºáµ®$®üYmÌç¹ş	…Y[Êê|ŠYü 7fè}İâyU‰çåîùà2cå4Sâ+uÑu¡H¡«™[ƒ¥AML`óÈ ¾	Œ…ª)Fq‘G4¯ÕºûŞa
+¨âšabbšhšú4ƒ—B|ñ„ä*špÑ4-ÊjXç¯(¼ĞqãĞg&›ŸÒ‘w—Ê„g!-ºÅF½Æïá“ëm?“×¢İá¹åÓqL„ï¤ĞfÉ UaB10C p™UÚXöºh¯0€WÀlD,r­[„´'hŞá6J NPlvk­€ú¯“Lâ:±Là¤#8>°ªí­†NæhªÖuÕcÃ*Ò€Ì3'yµH¦ëÓ İ’I²Éá(èáÂáŞ™ù6E¡'Ğ€ÉZe˜GÈcN/Wj‹Ú„a¿$‘d»Šw>§HcÇa0aW/Á¹h³jcªœ°Ş37˜Ûìå4Çmà0ÁWÆ
+h(| 3ÈÔ(¨
+øìĞC$]ãhB^:²çŞìrH_è1ñÈê´Q—IÔIİ{¬¦˜?7>X¶ƒÍ„6Ìã’”7æãÁ$Â8–¼ qˆÁ<:¬é/ÖuOàl£Ì^Uo?mœ-(kÎCt48µÕ¦½à.Ù>q ò/e½kää¯Eœ‘B²èƒª;í²UÕZ5¸õNÀj ª+"‰–{f¨ãÕÏóGøbÂÀ˜Ö*cÕy_¹ÔÓ“:hÛª
+A*äù$u,±­‘*“° ü‹ ”À‹ÎO›ı-•š·±ë¨EÇ-şQÕÉ8ƒ\’Ë „'t°Ù…¥64…ÂD*¿p°ÒÑ8ãBıŠ¬b[·CŞÍË#éHˆÈIİiífá¸VÉâ±'[û'"Ö‡Òÿ4şYÛaØ§M6÷a×4Dˆ–Kö/v›…ÖzT¦4ëlNq	wø³İöêÕNq?C[ª/ı*'rà"{A½Â1pá²"Òtä —©tUNuºç˜iÿ†¾Ä…Ëµ¡ÔÃ>NëÑñ/ÃÑ¾ÇíkŞCYò´_î*½¸ry=*	jn
+ (ÕW+ş‘Z 7$š&·^:ÂäZS¯^rS\4äLIhŸzC¡»5…¯¹pÀåŞ6ªÓxÍİgjnhş»Q‰€ëSNÛ;–Œº”mqpiyF{ş/×|öµ€œÀ—–Vup£É÷9Ë\)ún18ø ÓH¡¤‰÷ÉÍ1Œ ĞBmyËÅñŒõ~endstream
+endobj
+653 0 obj <<
+/Type /Page
+/Contents 654 0 R
+/Resources 652 0 R
+/MediaBox [0 0 612 792]
+/Parent 651 0 R
+>> endobj
+655 0 obj <<
+/D [653 0 R /XYZ 72 667.0237 null]
+>> endobj
+652 0 obj <<
+/Font << /F8 639 0 R /F14 642 0 R /F18 645 0 R /F27 658 0 R /F28 661 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+664 0 obj <<
+/Length 564       
+/Filter /FlateDecode
+>>
+stream
+xÚSM‹Û0½çWèTlˆ}Ø’|Í’]ÒnJh-´=¸ck±½„şûÎHÊn–¦¥'}Ì›§™7Oëb±º7$§¹ŠG¢Ñ\RfxFŠÃ·èÆ‰”2Ú„õS9Å	N±0ÑóäöõàCïürÉøÖmX¿t}ßÅ<*O˜4-ıíC	,](ö# lœ yå¨Ã†ÓèhGÛ!OµH9Ô>şX—ã çnhıÜÂ1DwÛâòJ=]× SËøGñ0’€šå®÷íçõG`B	nD&¿R‡Ë%å:Ë§<cÊ+¬îyz%f"¨V:%	£’1épßÏ<ôZv\™!Òd‰e…vK¯Ch99h_ãÍ<OAåaš»ùy~m×}¤ˆŒ¸Â¡µ(ímóïi¨úM-yE˜ÔÀ2Îç3½Li?Ú
+fBíØ¬š§SÙ‹M±à€e„JiÊ„Ô¤:-iàşá%.Së@’*C’ëÔ5:“kÂS*S%\aÈÎU¹òš_™G(+:GGU˜®sœ:=fçdŒhçØs4€sş¸BøÒ¿zW}øH:#S‰Æ=üë‹{qNó,ã¨Å¬Î!fûû¶ÿşy>Ï…-MSª…ôv-Ú‹Ñé½F{lËMšŞÖ B3'¬ÿ'Â:l§qàå«ñ^LİÄø6öƒ¾»ÑÑ£Ã!ƒŸ³éËÁ©sÃ,™¢FHñ_^ùúË‚endstream
+endobj
+663 0 obj <<
+/Type /Page
+/Contents 664 0 R
+/Resources 662 0 R
+/MediaBox [0 0 612 792]
+/Parent 651 0 R
+>> endobj
+665 0 obj <<
+/D [663 0 R /XYZ 126 667.0237 null]
+>> endobj
+662 0 obj <<
+/Font << /F8 639 0 R /F14 642 0 R /F18 645 0 R /F17 650 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+668 0 obj <<
+/Length 1695      
+/Filter /FlateDecode
+>>
+stream
+xÚ½WKoÛF¾ëW=ÒÜ]>ouœGÄ«h€4Z¢%"¤¨TÜ şñ×R¤Í=½hÅÙÙy|óØç«ÅÙ«ÔÉü,Ö±³ºsí$ÊøAª"gµùì^øKÏã¾”õcŞ-=åÖKºÇş{&ıÌ‹=ñVÖKY/«ª\*7¯ñP÷Œw_ç ¥ÌEÄuÍÒák-7tHİ»¦e¾+”³^êÄİ¡È}ÁôwEŞîá»ÜoE|¿ƒO¡^]®ì-E7ÖAAülùeõÆ	\‘Ù~yóü=s:Ö*Õ‘ùä_f|•D‘£|11¯‘pöJ…#gzÚOâ$t¼À7A`ˆï@EÌ:v;¸\§&BÎ4NTKÌÍÙbòRgàûwú¾/ï»¾ìıÉÜæ)«ej\b^cĞvè ¦j¶?pß­'ºd(‘fàTãşşŞ·Qºn›5ÄÄoÚíÙöPWxzñrµPÀ8
+ÑÇ‰h“8ëz8[Ø~=Ã×‚iíxã£ÏŸ 3d_ÆAàgYœı‡Nşw#p¼!ĞÚø™õÎ«
+1ºm¹¥ëğF® µh¿£¬b©ÂŸ÷“˜mÏgQ\û])§oaI$š¯L­s´é0Caï:´mlëbÃ›”]Ì9
+r~ğşZÕÖöK˜p…nQ±#ú¶¡´\3?f1éB¶‰“Á’}¹Î+›‡JùYiòOMbr”şCh”øMe¢:Â¿}o™Ù5=ÛC<ÍªC¢Ü–ÃRšv3¢¤"Ê!ûÅØ¼/¬S±q)*}ƒçómÁ¬ù~ÃÄAjÿJúû}Ån^ÚŠ™îK*M@ˆ¾¥¢­KÆŞpG`Æ)÷mÙqËÀ»£ÚY3û]Á»tÍmUv»¢õ­˜1ö¤**÷maäGøö)n¹ÄÙ˜€SNE®?¶lŞ!–÷Ìİ‰­ê3|Ã“ ²¬¨â!
+OÇ±:îmà)i
+ Å‘Ud¡û‰)–§Ë’İI×¶©ŠìI‘APáÏyşÕÓAœe€™	<”‹
+b÷PÜ*æ£kë¼¬æ*®Î V©D*Qw(Öeş¤¸j“úJÅ‘)¨“*±N~[|ş8¨¨oPğ²4rîá#ğ¡Šk§^@£2©¶ßÕâfñáTu‰ŞX$•Ş‰~:T~ªU|º™Ô_v¿Ôeh±'À¿ØgÊ¬Jı LXg‡ø•ò.¥*ìŞlM‚H£x—‚c#‡;/ŠT¾º`´p÷T%~gÙ4\« @
+£=´“@B7Š8e~ehßãoŞnxó¦½Ì0Ê€®·H) [¢õêÜÎ*Ô³©·¢{$¤Áğ™Û!¹¦#L~äªÑÊ@4E¼‚w‚Ä‰a”1)w:ã'F† ZšÎÓH…¾Iã;èÀµ"Å#?2!6-_…aB„—'BêŒö?:Qàj¹šöÛ,Lˆf!ƒè§§ZD Ô1ùÒ;ãÔ×If‡·ì¬×¨RqÕúÊâ(Š»(İK†Œ-Ò_j.›‰tî^¶¤r<$¿QOë‹!ù ´›ÎçuÑBo›Á»’ğ“·n{æ‚ŠÉÖb”^ä}³w:¯Ü{×RŞm'Ì©p6¢ê`Ÿ»svˆ@İV2ò£G†,PŠS2Œ‡ˆ§Yk+Ïòƒ£Y~i«²‘†ÂóÙ&®pCûÌºûKÅS5í#…2ó¤)`«3Z‰ß;‚C×7‡œ(ô–ÌåI·í¯˜¼îFÎˆ§Î8à†îº–“øñ€Ë9z1?Pˆx cx>©©U÷vÊx„Ézæ¹S;4XP’LURüÙ¯yD²Î¿%ĞUe³¥†ì/@üaˆ¹+Úb¿>¡ÚÈ ƒIAúr§m•£'”‡Lğòè!å}šcWâ®é«ğğ÷¯Bå>Èÿ	q ‘¬e½Ê‡¹³ÜË¬Ä†°µç{¸ÊûØá×Ö?\¾kc*·G® ŒŞÁx+€hÔ-.ví0á  q|-Úù‡ô%İj¿VÖÄÕû„iÂzsB¹KÇÍj®\u?œkxt…>04	‡I3ÆE*óõÌd£apuóGË›mş-­'ÁÆ=b4›µ&¡I@¯8|TùA™(€şcÂÓP¥q<-v* C12YSYYcY#YCY¬zæ•Å0ı¯¹¶.3jendstream
+endobj
+667 0 obj <<
+/Type /Page
+/Contents 668 0 R
+/Resources 666 0 R
+/MediaBox [0 0 612 792]
+/Parent 651 0 R
+>> endobj
+669 0 obj <<
+/D [667 0 R /XYZ 72 667.0237 null]
+>> endobj
+666 0 obj <<
+/Font << /F8 639 0 R /F14 642 0 R /F18 645 0 R /F7 672 0 R /F11 675 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+678 0 obj <<
+/Length 884       
+/Filter /FlateDecode
+>>
+stream
+xÚUMoÛ8½çWèÔJ@Ä”HQ×m‘î¶(Z»@Ûƒ,+2QY
+$¹Ú ıñ*uâ İ‹)ÎgŞŸ¯7Wo\TŠÒjmn£BG…Ê„tÊD›İ—ø•HÒ,Ëâ×aıTMIªâC¢]|œè»éÙõ‚—õÄ_a½	ë?¾ë|¢âê€‡¦K¶¾­ ÅWâãC’xMĞá†	İy|;Œ÷qêDñ!û†ı7ÕØÃŞ÷m€Ÿ÷°Ş÷7›õ–f:ÍAKi/“o›w‘ŒR ¢%Õ~óùúGHmµrÚdÿ
+Š+3¡
+c"%”‘–‚kt\½Qù	™©…-ò(•"“2£¸¯R=¥(×.3éLˆÄ´B¹óJNt	Ü7h™ç)°ÜO³Ÿóïr‡[öl—Å\cÓöHĞĞí=ÚEÈúQ.e	I¸ØÀ4–ek—>C=ÃØ^µw‡O_¼Ş\(ˆ•‘Š X[©³"ª2jÁşöÁŸåÖgin]”½~:™ˆmr-¤µ<š›=T•;ƒ´ GŠM™|Ó×!ÙÀ
+÷5ú‰W
+zdõ2D\Ì$læpEXïà0=Í©@V»{Ş,Æ¾r?–n²qã×y”uà”¥1š‡ˆ]ØÅÊ÷—ø\ìwô"hÁ¶k‚Ÿ‚.
+£äg?6˜Zw²±oá÷Ø…#Ôy|+ºpDˆ.l¼àyÌÊ‡á¢ó_¥‘`ƒG´öÕĞ`Tì^O´¯póãÁRÄóğ¸6EµKP•jƒ”0äÊaÇnÂÓÆ><Ym 	õà¡uøIB€ 3½ÿ‰£)«aìvìóÓ
+ êª£^cEİ1x‰ˆ†ÑŞ"í[ìüì¹Ë—ÏµiÙ{~KğÂ,L^õªÇ§h5Œ#OfÃèAZÉù „°jI±ˆæ]Ãg‘w¤‹Û
+3ô¢Ş³kyÔ;´F0wØ4)tÿ±İ?¤#ÏºÄ¥m±…<TA}ĞæŠlãĞWÛî·ÒªşePèÍûURËLäÒåçà'ã¼ãÿUÚ_uÍø}U»ÿ cÁŠš®cÛ—§J“ç élåN]Ê 7èÛˆ?>êËŸ8™sXLY&Ÿ%`!R©âIg²¢şpí^ûí9y5V8éÿ¥®¿ µå¯endstream
+endobj
+677 0 obj <<
+/Type /Page
+/Contents 678 0 R
+/Resources 676 0 R
+/MediaBox [0 0 612 792]
+/Parent 651 0 R
+/Annots [ 680 0 R ]
+>> endobj
+680 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 0]
+/Rect [440.9901 478.8037 462.908 490.7589]
+/Subtype /Link
+/A << /S /GoTo /D (cite.maxwell-50) >>
+>> endobj
+679 0 obj <<
+/D [677 0 R /XYZ 126 667.0237 null]
+>> endobj
+676 0 obj <<
+/Font << /F8 639 0 R /F14 642 0 R /F18 645 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+684 0 obj <<
+/Length 373       
+/Filter /FlateDecode
+>>
+stream
+xÚQËNÃ0¼ç+|B¶Ô¸~Ä¯kQ[(ª HÀ!
+i)”¤ªø{ìØ…"qà´öÎìxv¼H£ùJƒd¤{ P”c¢© éû¼Æ(æœÃe¨Ù€b
+Ä4<Ó¹h=tåËyâ6ÔM¨OU]WˆÂ¬qCÃÌw×™U©² ±ë-¡C±Ï'éğÂààî»Şó¶N'GLÁƒ“lßYßÚ{Õ–A~<Øk@·›ôüJ1\z`„ÈzKo ±B3í¾y\Ü{a’QÍÆÏpL•€b*ˆœÈ¹æ+š\„3¬¤J@L0'„O¼WB…§^Æn#gšÇÔ"0­°næs+#flö…ëŒãRn‡±ãÏºİŞ#)ÒNäÜ}ÚÁÔÕ]ùéú8¸şåÅkB›†³q:ğù—v}—Û?Á]_ÎË¦vÓÑ2¨å@µ
+R*LW o"JÛ_ã<a¶şÄ‰%%ØnükôRV¤&endstream
+endobj
+683 0 obj <<
+/Type /Page
+/Contents 684 0 R
+/Resources 682 0 R
+/MediaBox [0 0 612 792]
+/Parent 651 0 R
+>> endobj
+685 0 obj <<
+/D [683 0 R /XYZ 126 667.0237 null]
+>> endobj
+682 0 obj <<
+/Font << /F8 639 0 R /F14 642 0 R /F18 645 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+688 0 obj <<
+/Length 3146      
+/Filter /FlateDecode
+>>
+stream
+xÚíœ[sÛ¶€ßı+ôtFš	Ü>Æ¹ºMÚœØÓt¦í#+2Ot«$Çñ¿?¸’nÌ´icÇ/–Eq±Ëı‹ÅE:>;zøLJTJ*gïŠak"gç¿£QÁ>¯oªÍ¨ ÃùˆêáåÆı?Yøşã_¢Äáõ$¼¾­g³zD†ÕÜ
+mø«Ï+ÓJ]…&^¯ÍËQa»¦ƒ†ı˜ß/×ş¾W¶ñˆªá…mr1ñŸ¿œTë…y_/¦¡ùí…y>}urµL6©cù`ôÇÙ<(Œ+.İ³ŸœÿäïÀTR¢©`¿"w_ÉQB"KwóØ~ğğá‰3Š”T|P`Ä0fî¾ß1şÖÔíÆåT3aïÔ"ÜiÍ
+[y?„GÑÒø~b¯l·›àåÅf[o/·íã.ßûOÎFšİÍcíÂ:h9[N¯íu¬Ş±¥,º4Ş°f\]]¡Héõz96LĞr=}8]ÍgVúèéÙ1÷â±Ñ#¥B˜25Ïğ`j.?o>fZ óTÜ¼É|Zp¡üÇEÚÈ±QZGŒK‚T²aI|Œ.íÓ-FÌøcş¥Ã­Cœq5G%7:(AšÒ§“uí=gEœû´ñázre]¾´qy>*8‘Æe…À¸ó…—åßşÙ·ĞôiÎKÓx9Ä@ã˜]OşŸ7)ã(W¤‚Çûiè°y‹éS}`F™œP€AÊµt"±‰VÍ}„¸Ìäâã½Ï=…{[º>t;‰ş“ÁÂ´Şn\zÓ`	rE*˜	–ıæ}°Ø.DLÆ(b BÄ3.0ZjŸS®GnœTÃwf@39d2KµğÉÄ&çŸ–Ûj[/Íğ'û®"‚ %4k]vÓˆrE*˜‰ˆıæ]D|ìŒKÈbf‰İ˜\fQµ[]	E'ÄÇ(1„
+3x»kmÆ1óz~9v!q`¦TF°iÁ¨€\ï/RC›Ûõ–uõ›´5ÈûJsıE”ˆéé˜ZÊ$ULéğQ(ÓêñvéÆåjæ{ñ“)}œŸL%sn>	®òµŞÒ¿»RÉÖ:×ö¯õ\3áÆW­¼Ëè³™¯ÿr'üâŞ (¢¤$­CnØ¢\‘
+ö†ƒæ­¿Y7áŒiHw$Í˜È@šÒo–Õù¼Z
+MùıX¹Ñe½c!b!%"ºc!cûºÒÈ$f‚Ô§¿7®˜šº
+ËLtlg5 ¹qL ˜§º}’´ùb_i®_˜‰Ÿ¤ÚS M|k'.7ÕS7İÛnj²ªÆav÷Kmf&¦Œ%ßWŸˆîêİ'A O¤4 ş+ 8€tì&ÛF7&H*Æc$¸X œÏ.òSÓ3¶ÕÂ[Õ:Ô/ıòGe£#Y	ÜÄŒ›æánãèˆŞŒA€qêgİÍ8cÄÒİ0æºDŠhÖ0¦q\÷rø¿X•øÊ¦YˆË9'‹•­{¶á²ãoËœXı<sË=Õörİ.®Ò9+7wÿ+%¿qSªõÂMKş W¤‚™’¿yWjt×±93 Â òÍ¹RHIFßXå¸¥¤ËEÚ‘ÊÍ@x·g|‘OtRoü‰ €?e@º‹Üœ~HyÄ/…™Hª2àgÿ/¶GV¶;^×–ÿÔcO—¦_\¯ÜÁÄçq2\Uëj>Ù6ïMo\ÜúÑG½é'‚ ı)»égÌ€èCÊ#}ÁL–§¡²E<Ğ2qy·Ş4óÔ³‹˜â—ëkÉ®)Æ½7î£é:ì}81…é­†]Óz"@ßñ<ñ3f@Ğ!å:'H—*Öï"®`ÔO×O~ÃËÁ³ĞİÙ7+·æ‚#,2AïlÒ~ê‰ ;hwdÌ€" R#€šKœÆº]†8û|éÒ¼Ïû<}?¹s;mw©šªíÒÖr®J›z¶ØoâèÏK/GBØõ°AI?NÜæ§_Ò2-”L~}®ñé{sM®;Îåİ\3f@\÷•ïìÚ*V6àD™TÜ¶Åìp/Ñı§ÂF)E*À?YŒ—k?¢/×¦s[®Ó@ò“Kõ¸Ş¦«•›:İv¼\ÄÌàd]<Á¾ùNÖ;A R´{z3
+Hy;uÃaFci¯šéù+WÙMë…_¤¶SònÙyV_43ñ¸à\(y—’zôIoŞ‰ À{Çå@-—1â)I•a%c%¯C¿~Qo¶MÍ–nãùšmVm'áÂ[zàÃ—¯¿|Ëà÷ôŸ
+vƒßõ~7øœ xPy¯)"”Ä"¾àŸ~Šë:fæzO‹ŒÅıæÅ^„D?öDˆÃİ’1Š}åû»Lbs++ÃšÛ½x<«ÚM‹ß1áã*»}ËRœñ¶Ïl^Äû‹T ³yqĞ®³­{á#mòÅ¾Ö\oáQ®†f÷Â{Äöëd’ãj™ô¤ß»ÙdŞô¢hYòßèÑO½{C"ô†İUrÎ( åMaÄ˜DÔL5b4…Qï…Çnµ+Õştft&Dƒ`ãÃ÷›`w|Û½I›3)]›rÄ˜æk\Ê~Y7SÌ*·ßêŞ«™aßê½Ô›"ğßĞ=ãÉ™ñ‡”Gş„"¦üãZöóêÒ¯F[Í©ms)œÉû¢(„ÁçÉÙ­¦}Ô›~"ĞßA ”Á3 úòHcÄ©&~\Ën¶¢_Vn£ÙÂz´Zù0!ğ©Wí¡¬4l½xXóp™¤ŠÁó×![Øqá21RTª¯ˆ/>do|‰ €/õ!ï^•Î™áƒ”7£2ÕqEË°•_[DËM»³T[:¥ßã,¥ñRßH»#`ï^•Î™D ¨¼ %‘ J7°sÖÀá·'Iê¸Ş¬¾ğ$û­eıÓ›}"°OİÏ»kòœ{HyË^r$ÜÅÀö'óU˜qMüÎA2)“ä®^éM<ˆ§NçİÅzÎˆ8¤¼%.(’Xñ†8¿_n|Ò›w"ğN]Î»‹óœï}åÙ½)Ê1’‚ŞxoŠ5[Ó¯l?ÛÖÅx&d!.ªÕçê9Áè-‹€è¥ŞBàİg	sf@ )o{<ÕH–*–è¢©ğ¾ï½Ò›x"O.ºkúœqHy˜’Q"‘â$Vô2İ™X¹üí×Ûì7€“ù—_g]UÓpŞİ3&‡z³Oö) Tó3 öò¶·c”ßÜA²ÏİWóNôOoö‰ À>u¿İì3f@ì!å{RR¤‘{z_Û5>éË;ìæ½ãrÑ]ÛåÌ xƒÊ[Ş#­$oxßÏŞ,’è•ŞÄA€xêtˆxÆˆ8¤<ŒìDjTRBo•Ù×õ< ßØåı9ƒˆ-ú®wT$‚@T¤hd÷9ƒœPT@ÊÛ< L|H+üöÈÙ£ä‡]–ş{ÎnÖæ÷aŞ…ƒÆöÇ
+‚åN²şéÍ>Ø§î‡ØgÌ€ØCÊ[ö\ LpÙ°cşÏÍşkq^<c3ØMöX„Cç+Tè[F5>yoª‰ @5u¬ì®âsf@T!å-UÆB5TãÈ~lj8÷!OğEµ8¿r›3ÛøƒFæ:>©§ñØğãYº?cóÔEAø–‘–g'³ø\½™%‚ ³Ôm²ûdSÎˆ¤¼eF	"Ë†Y\Y%¸ûSŸq»û…?zµ®í$<!Ç9W©oop$b¿+ıUÅÇê,¥^S@òÌ˜!ƒ”ÇrÊ3İ1–Ïñìî“zãp%çü”û_ôÚèÀŞ¡‘¡‘òQ@Î˜qÍ/ÊÚª<w¨(%vë©ıöœ›{~8Âˆ•Z®ÌŒHYÒÁüˆ{FXéxevtzôßV¢ö)í¯ú•íò,J¥|RSÙÉAifmRª½åy†Êş¼ qAŒ(b#P“ğİµÓä‹ßae^ğáÜ»ÿÃˆá¡;_.Äğ}sí?¯b±ÿoÜÏŞ™	Ãæƒ¿2?‡ı/âUõ";ÿ8å°ZŒÃ’Wè‡ÓHå•»º½ğ—Ó{+Ş™ìFóÆéœ×N¡?/¶ÊícØ¼·Ş„&×şXÙyí~Š2?.Xb¤LLä)›Ì‰tIØÍyğÿùéÖ³endstream
+endobj
+687 0 obj <<
+/Type /Page
+/Contents 688 0 R
+/Resources 686 0 R
+/MediaBox [0 0 612 792]
+/Parent 741 0 R
+/Annots [ 694 0 R 695 0 R 696 0 R 697 0 R 698 0 R 699 0 R 700 0 R 701 0 R 702 0 R 703 0 R 704 0 R 705 0 R 706 0 R 707 0 R 708 0 R 709 0 R 710 0 R 711 0 R 712 0 R 713 0 R 714 0 R 715 0 R 716 0 R 717 0 R 718 0 R 719 0 R 720 0 R 721 0 R 722 0 R 723 0 R 724 0 R 725 0 R 726 0 R 727 0 R 728 0 R 729 0 R 730 0 R 731 0 R 732 0 R 733 0 R 734 0 R ]
+>> endobj
+694 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [448.1787 616.2438 458.1967 624.89]
+/Subtype /Link
+/A << /S /GoTo /D (section*.2) >>
+>> endobj
+695 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [442.6438 604.2887 458.1967 612.9348]
+/Subtype /Link
+/A << /S /GoTo /D (section*.3) >>
+>> endobj
+696 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [440.762 592.3335 458.8055 600.9797]
+/Subtype /Link
+/A << /S /GoTo /D (section*.4) >>
+>> endobj
+697 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [450.4757 570.4157 458.1967 578.8286]
+/Subtype /Link
+/A << /S /GoTo /D (chapter.1) >>
+>> endobj
+698 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [451.2228 558.4605 458.1967 566.8734]
+/Subtype /Link
+/A << /S /GoTo /D (section.1.1) >>
+>> endobj
+699 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [451.2228 546.5053 458.1967 554.9182]
+/Subtype /Link
+/A << /S /GoTo /D (section.1.2) >>
+>> endobj
+700 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [450.4757 524.5875 458.1967 533.0004]
+/Subtype /Link
+/A << /S /GoTo /D (chapter.2) >>
+>> endobj
+701 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [451.2228 512.6323 458.1967 521.0452]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.1) >>
+>> endobj
+702 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [451.2228 500.6772 458.1967 509.0901]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.1.1) >>
+>> endobj
+703 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 488.722 458.1967 497.1349]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.1.2) >>
+>> endobj
+704 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 476.7668 458.1967 485.1797]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.2) >>
+>> endobj
+705 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 464.8117 458.1967 473.2246]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.3) >>
+>> endobj
+706 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 452.8565 458.1967 461.2694]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.4) >>
+>> endobj
+707 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 440.9013 458.1967 449.3142]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.5) >>
+>> endobj
+708 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 428.9462 458.1967 437.3591]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.6) >>
+>> endobj
+709 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 416.991 458.1967 425.4039]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.7) >>
+>> endobj
+710 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 405.0358 458.1967 413.4487]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.7.1) >>
+>> endobj
+711 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 393.0807 458.1967 401.4936]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.8) >>
+>> endobj
+712 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 381.1255 458.1967 389.5384]
+/Subtype /Link
+/A << /S /GoTo /D (section.2.9) >>
+>> endobj
+713 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [444.7472 359.2077 458.1967 367.6206]
+/Subtype /Link
+/A << /S /GoTo /D (chapter.3) >>
+>> endobj
+714 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 347.2525 458.1967 355.6654]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.1) >>
+>> endobj
+715 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 335.2973 458.1967 343.7102]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.1.1) >>
+>> endobj
+716 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 323.3422 458.1967 331.7551]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.2) >>
+>> endobj
+717 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 311.387 458.1967 319.7999]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.3) >>
+>> endobj
+718 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 299.4318 458.1967 307.8447]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.4) >>
+>> endobj
+719 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 287.4767 458.1967 295.8896]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.4.1) >>
+>> endobj
+720 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 275.5215 458.1967 283.9344]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.4.2) >>
+>> endobj
+721 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 263.5663 458.1967 271.9792]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.4.3) >>
+>> endobj
+722 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 251.6112 458.1967 260.0241]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.4.4) >>
+>> endobj
+723 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 239.656 458.1967 248.0689]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.5) >>
+>> endobj
+724 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 227.7008 458.1967 236.1137]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.5.1) >>
+>> endobj
+725 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 215.7457 458.1967 224.1586]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.6) >>
+>> endobj
+726 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 203.7905 458.1967 212.2034]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.6.1) >>
+>> endobj
+727 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 191.8353 458.1967 200.2482]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.6.2) >>
+>> endobj
+728 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 179.8802 458.1967 188.293]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.6.3) >>
+>> endobj
+729 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 167.925 458.1967 176.3379]
+/Subtype /Link
+/A << /S /GoTo /D (section.3.7) >>
+>> endobj
+730 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [446.2415 155.9698 458.1967 164.3827
